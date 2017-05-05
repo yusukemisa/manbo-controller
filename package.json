@@ -1,0 +1,12 @@
+{
+  "name": "manbo",
+  "version": "1.0.0",
+  "description": "ドローンをnode.jsで操作する機能を作る",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "noble": "^1.8.1",
+    "rolling-spider": "^1.7.0"
+  }
+}
